@@ -1,0 +1,4 @@
+in	 : cagedbird.txt0,daffodils.txt1,roadnot.txt2
+leaves	 : daffodils.txt0,roadnot.txt1
+sparkling	 : daffodils.txt0
+the	 : cagedbird.txt0,daffodils.txt1,roadnot.txt2

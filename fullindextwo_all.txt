@@ -1,0 +1,671 @@
+  		: cagedbird.txt@47+
+!	: daffodils.txt@564+roadnot.txt@499+
+'	: daffodils.txt@79+
+' 	: daffodils.txt@79+
+,	: daffodils.txt@153+daffodils.txt@800+daffodils.txt@706+daffodils.txt@674+daffodils.txt@535+daffodils.txt@121+daffodils.txt@458+daffodils.txt@385+daffodils.txt@292+daffodils.txt@79+daffodils.txt@182+daffodils.txt@182+roadnot.txt@233+roadnot.txt@722+roadnot.txt@684+roadnot.txt@48+roadnot.txt@538+roadnot.txt@499+roadnot.txt@121+roadnot.txt@388+roadnot.txt@272+roadnot.txt@233+
+, I	: roadnot.txt@499+
+, and	: roadnot.txt@684+
+, as	: roadnot.txt@233+
+, beneath	: daffodils.txt@182+
+, but	: daffodils.txt@458+
+, long	: roadnot.txt@121+
+, of	: daffodils.txt@153+
+, when	: daffodils.txt@674+
+-	: cagedbird.txt@623+daffodils.txt@322+daffodils.txt@497+roadnot.txt@684+
+- 	: cagedbird.txt@623+daffodils.txt@497+daffodils.txt@322+
+--	: daffodils.txt@590+daffodils.txt@590+
+-- and	: daffodils.txt@590+
+-- but	: daffodils.txt@590+
+.	: cagedbird.txt@338+cagedbird.txt@181+cagedbird.txt@671+cagedbird.txt@1007+daffodils.txt@218+daffodils.txt@417+roadnot.txt@576+roadnot.txt@756+roadnot.txt@461+
+. 	: daffodils.txt@839+
+:	: daffodils.txt@358+daffodils.txt@633+roadnot.txt@652+
+;	: daffodils.txt@497+daffodils.txt@153+daffodils.txt@768+roadnot.txt@310+roadnot.txt@195+
+A	: daffodils.txt@153+daffodils.txt@535+daffodils.txt@0+
+A Cloud	: daffodils.txt@0+
+A host	: daffodils.txt@153+
+A poet	: daffodils.txt@535+
+Along	: daffodils.txt@358+
+Along the	: daffodils.txt@358+
+And	: daffodils.txt@839+daffodils.txt@800+daffodils.txt@292+roadnot.txt@756+roadnot.txt@86+roadnot.txt@272+roadnot.txt@121+roadnot.txt@426+roadnot.txt@156+
+And be	: roadnot.txt@121+
+And both	: roadnot.txt@426+
+And dances	: daffodils.txt@839+
+And having	: roadnot.txt@272+
+And looked	: roadnot.txt@156+
+And sorry	: roadnot.txt@86+
+And that	: roadnot.txt@756+
+And then	: daffodils.txt@800+
+And twinkle	: daffodils.txt@292+
+Angelou	: cagedbird.txt@33+
+As	: daffodils.txt@0+
+As A	: daffodils.txt@0+
+Because	: roadnot.txt@310+
+Because it	: roadnot.txt@310+
+Beside	: daffodils.txt@182+
+Beside the	: daffodils.txt@182+
+Bird	: cagedbird.txt@0+
+Bird Sings	: cagedbird.txt@0+
+But	: cagedbird.txt@702+cagedbird.txt@210+
+But a	: cagedbird.txt@210+cagedbird.txt@702+
+Caged	: cagedbird.txt@0+
+Caged Bird	: cagedbird.txt@0+
+Cloud	: daffodils.txt@0+
+Continuous	: daffodils.txt@257+
+Continuous as	: daffodils.txt@257+
+Fluttering	: daffodils.txt@218+
+Fluttering and	: daffodils.txt@218+
+For	: daffodils.txt@674+
+For oft	: daffodils.txt@674+
+Frost	: roadnot.txt@26+
+Had	: roadnot.txt@388+
+Had worn	: roadnot.txt@388+
+I	: cagedbird.txt@0+daffodils.txt@0+daffodils.txt@50+daffodils.txt@121+daffodils.txt@385+daffodils.txt@590+daffodils.txt@674+roadnot.txt@86+roadnot.txt@576+roadnot.txt@576+roadnot.txt@499+roadnot.txt@684+roadnot.txt@121+roadnot.txt@156+roadnot.txt@722+roadnot.txt@615+
+I Know	: cagedbird.txt@0+
+I Wandered	: daffodils.txt@0+
+I at	: daffodils.txt@385+
+I could	: roadnot.txt@156+roadnot.txt@86+
+I doubted	: roadnot.txt@576+
+I gazed	: daffodils.txt@590+
+I kept	: roadnot.txt@499+
+I lie	: daffodils.txt@674+
+I saw	: daffodils.txt@121+
+I shall	: roadnot.txt@615+
+I should	: roadnot.txt@576+
+I stood	: roadnot.txt@121+
+I took	: roadnot.txt@722+
+I wandered	: daffodils.txt@50+
+In	: daffodils.txt@706+daffodils.txt@564+roadnot.txt@461+
+In leaves	: roadnot.txt@461+
+In such	: daffodils.txt@564+
+In vacant	: daffodils.txt@706+
+Know	: cagedbird.txt@0+
+Know Why	: cagedbird.txt@0+
+Lonely	: daffodils.txt@0+
+Lonely As	: daffodils.txt@0+
+Maya	: cagedbird.txt@33+
+Maya Angelou	: cagedbird.txt@33+
+NOT	: roadnot.txt@0+
+NOT TAKEN	: roadnot.txt@0+
+Oh	: roadnot.txt@499+
+Oh 	: roadnot.txt@499+
+Out	: daffodils.txt@497+
+Out did	: daffodils.txt@497+
+ROAD	: roadnot.txt@0+
+ROAD NOT	: roadnot.txt@0+
+Robert	: roadnot.txt@26+
+Robert Frost	: roadnot.txt@26+
+Sings	: cagedbird.txt@0+
+Somewhere	: roadnot.txt@652+
+Somewhere ages	: roadnot.txt@652+
+TAKEN	: roadnot.txt@0+
+THE	: roadnot.txt@0+
+THE ROAD	: roadnot.txt@0+
+Ten	: daffodils.txt@385+
+Ten thousand	: daffodils.txt@385+
+That	: daffodils.txt@79+
+That floats	: daffodils.txt@79+
+The	: cagedbird.txt@533+cagedbird.txt@51+cagedbird.txt@371+cagedbird.txt@865+daffodils.txt@458+
+The caged	: cagedbird.txt@371+cagedbird.txt@865+
+The free	: cagedbird.txt@533+cagedbird.txt@51+
+The waves	: daffodils.txt@458+
+Then	: roadnot.txt@233+
+Then took	: roadnot.txt@233+
+They	: daffodils.txt@322+daffodils.txt@736+
+They flash	: daffodils.txt@736+
+They stretched	: daffodils.txt@322+
+Though	: roadnot.txt@350+
+Though as	: roadnot.txt@350+
+To	: roadnot.txt@195+
+To where	: roadnot.txt@195+
+Tossing	: daffodils.txt@417+
+Tossing their	: daffodils.txt@417+
+Two	: roadnot.txt@48+roadnot.txt@684+
+Two roads	: roadnot.txt@684+roadnot.txt@48+
+Wandered	: daffodils.txt@0+
+Wandered Lonely	: daffodils.txt@0+
+What	: daffodils.txt@633+
+What wealth	: daffodils.txt@633+
+When	: daffodils.txt@121+
+When all	: daffodils.txt@121+
+Which	: daffodils.txt@768+
+Which is	: daffodils.txt@768+
+Why	: cagedbird.txt@0+
+Why the	: cagedbird.txt@0+
+William	: daffodils.txt@30+
+William Wordsworth	: daffodils.txt@30+
+Wordsworth	: daffodils.txt@30+
+Yet	: roadnot.txt@538+
+Yet knowing	: roadnot.txt@538+
+a	: cagedbird.txt@210+cagedbird.txt@702+cagedbird.txt@623+cagedbird.txt@886+cagedbird.txt@749+daffodils.txt@358+daffodils.txt@50+daffodils.txt@385+daffodils.txt@564+daffodils.txt@121+roadnot.txt@48+roadnot.txt@615+roadnot.txt@684+
+a bay	: daffodils.txt@358+
+a bird	: cagedbird.txt@210+
+a caged	: cagedbird.txt@702+
+a cloud	: daffodils.txt@50+
+a crowd	: daffodils.txt@121+
+a dawn	: cagedbird.txt@623+
+a fearful	: cagedbird.txt@886+
+a glance	: daffodils.txt@385+
+a jocund	: daffodils.txt@564+
+a nightmare	: cagedbird.txt@749+
+a sigh	: roadnot.txt@615+
+a wood	: roadnot.txt@684+
+a yellow	: roadnot.txt@48+
+about	: roadnot.txt@388+
+about the	: roadnot.txt@388+
+ages	: roadnot.txt@652+roadnot.txt@652+
+ages and	: roadnot.txt@652+
+ages hence	: roadnot.txt@652+
+all	: daffodils.txt@121+roadnot.txt@756+
+all at	: daffodils.txt@121+
+all the	: roadnot.txt@756+
+and	: cagedbird.txt@294+cagedbird.txt@946+cagedbird.txt@95+cagedbird.txt@789+cagedbird.txt@139+cagedbird.txt@671+cagedbird.txt@623+cagedbird.txt@572+cagedbird.txt@181+cagedbird.txt@454+daffodils.txt@590+daffodils.txt@79+daffodils.txt@218+roadnot.txt@310+roadnot.txt@652+roadnot.txt@684+
+and I	: roadnot.txt@684+
+and ages	: roadnot.txt@652+
+and dancing	: daffodils.txt@218+
+and dares	: cagedbird.txt@181+
+and dips	: cagedbird.txt@139+
+and floats	: cagedbird.txt@95+
+and gazed	: daffodils.txt@590+
+and he	: cagedbird.txt@671+
+and hills	: daffodils.txt@79+
+and his	: cagedbird.txt@946+cagedbird.txt@789+cagedbird.txt@454+
+and the	: cagedbird.txt@623+cagedbird.txt@572+
+and wanted	: roadnot.txt@310+
+another	: cagedbird.txt@533+roadnot.txt@499+
+another breeze	: cagedbird.txt@533+
+another day	: roadnot.txt@499+
+are	: cagedbird.txt@789+cagedbird.txt@320+cagedbird.txt@789+cagedbird.txt@294+
+are clipped	: cagedbird.txt@294+cagedbird.txt@789+
+are tied	: cagedbird.txt@789+cagedbird.txt@320+
+as	: daffodils.txt@257+daffodils.txt@50+roadnot.txt@233+roadnot.txt@156+roadnot.txt@233+roadnot.txt@350+roadnot.txt@156+
+as I	: roadnot.txt@156+
+as a	: daffodils.txt@50+
+as fair	: roadnot.txt@233+
+as far	: roadnot.txt@156+
+as for	: roadnot.txt@350+
+as just	: roadnot.txt@233+
+as the	: daffodils.txt@257+
+at	: daffodils.txt@121+daffodils.txt@385+
+at a	: daffodils.txt@385+
+at once	: daffodils.txt@121+
+back	: cagedbird.txt@71+roadnot.txt@576+
+back of	: cagedbird.txt@71+
+bars	: cagedbird.txt@277+
+bars of	: cagedbird.txt@277+
+bay	: daffodils.txt@358+
+be	: daffodils.txt@535+roadnot.txt@121+roadnot.txt@615+
+be but	: daffodils.txt@535+
+be one	: roadnot.txt@121+
+be telling	: roadnot.txt@615+
+beneath	: daffodils.txt@182+
+beneath the	: daffodils.txt@182+
+bent	: roadnot.txt@195+
+bent in	: roadnot.txt@195+
+beside	: daffodils.txt@458+
+beside them	: daffodils.txt@458+
+better	: roadnot.txt@272+
+better claim	: roadnot.txt@272+
+bird	: cagedbird.txt@371+cagedbird.txt@496+cagedbird.txt@533+cagedbird.txt@210+cagedbird.txt@702+cagedbird.txt@865+cagedbird.txt@51+cagedbird.txt@988+
+bird leaps	: cagedbird.txt@51+
+bird sings	: cagedbird.txt@865+cagedbird.txt@371+
+bird stands	: cagedbird.txt@702+
+bird that	: cagedbird.txt@210+
+bird thinks	: cagedbird.txt@533+
+black	: roadnot.txt@461+
+bliss	: daffodils.txt@768+
+bliss of	: daffodils.txt@768+
+both	: roadnot.txt@426+roadnot.txt@86+
+both that	: roadnot.txt@426+
+breeze	: cagedbird.txt@533+daffodils.txt@218+
+bright	: cagedbird.txt@623+
+bright lawn	: cagedbird.txt@623+
+brought	: daffodils.txt@633+
+but	: cagedbird.txt@433+cagedbird.txt@925+daffodils.txt@535+daffodils.txt@458+daffodils.txt@590+
+but gay	: daffodils.txt@535+
+but little	: daffodils.txt@590+
+but longed	: cagedbird.txt@433+cagedbird.txt@925+
+but they	: daffodils.txt@458+
+by	: roadnot.txt@722+
+cage	: cagedbird.txt@233+
+caged	: cagedbird.txt@988+cagedbird.txt@702+cagedbird.txt@496+cagedbird.txt@371+cagedbird.txt@865+
+caged bird	: cagedbird.txt@371+cagedbird.txt@496+cagedbird.txt@865+cagedbird.txt@702+cagedbird.txt@988+
+can	: cagedbird.txt@254+
+can seldom	: cagedbird.txt@254+
+claim	: cagedbird.txt@181+roadnot.txt@272+
+claim the	: cagedbird.txt@181+
+clipped	: cagedbird.txt@294+cagedbird.txt@789+
+clipped and	: cagedbird.txt@294+cagedbird.txt@789+
+cloud	: daffodils.txt@50+
+come	: roadnot.txt@576+
+come back	: roadnot.txt@576+
+company	: daffodils.txt@564+
+couch	: daffodils.txt@674+
+couch I	: daffodils.txt@674+
+could	: daffodils.txt@535+roadnot.txt@86+roadnot.txt@156+
+could not	: daffodils.txt@535+roadnot.txt@86+
+crowd	: daffodils.txt@121+
+current	: cagedbird.txt@117+
+current ends	: cagedbird.txt@117+
+daffodils	: daffodils.txt@839+daffodils.txt@153+
+dance	: daffodils.txt@417+
+danced	: daffodils.txt@458+
+danced 	: daffodils.txt@458+
+dances	: daffodils.txt@839+
+dances with	: daffodils.txt@839+
+dancing	: daffodils.txt@218+
+dancing in	: daffodils.txt@218+
+dares	: cagedbird.txt@181+
+dares to	: cagedbird.txt@181+
+dawn	: cagedbird.txt@623+
+dawn bright	: cagedbird.txt@623+
+day	: roadnot.txt@499+
+did	: daffodils.txt@497+
+did the	: daffodils.txt@497+
+difference	: roadnot.txt@756+
+dips	: cagedbird.txt@139+
+dips his	: cagedbird.txt@139+
+distant	: cagedbird.txt@476+cagedbird.txt@968+
+distant hill	: cagedbird.txt@968+cagedbird.txt@476+
+diverged	: roadnot.txt@48+roadnot.txt@684+
+diverged in	: roadnot.txt@684+roadnot.txt@48+
+doubted	: roadnot.txt@576+
+doubted if	: roadnot.txt@576+
+down	: cagedbird.txt@233+roadnot.txt@156+
+down his	: cagedbird.txt@233+
+down one	: roadnot.txt@156+
+downstream	: cagedbird.txt@95+
+dreams	: cagedbird.txt@702+
+ending	: daffodils.txt@322+
+ending line	: daffodils.txt@322+
+ends	: cagedbird.txt@117+
+equally	: roadnot.txt@426+
+equally lay	: roadnot.txt@426+
+er	: daffodils.txt@79+
+er vales	: daffodils.txt@79+
+ever	: roadnot.txt@576+
+ever come	: roadnot.txt@576+
+eye	: daffodils.txt@736+
+fair	: roadnot.txt@233+
+far	: roadnot.txt@156+
+far as	: roadnot.txt@156+
+fat	: cagedbird.txt@623+
+fat worms	: cagedbird.txt@623+
+fearful	: cagedbird.txt@886+cagedbird.txt@392+
+fearful trill	: cagedbird.txt@886+cagedbird.txt@392+
+feet	: cagedbird.txt@789+cagedbird.txt@320+
+feet are	: cagedbird.txt@789+cagedbird.txt@320+
+fills	: daffodils.txt@800+
+first	: roadnot.txt@499+
+first for	: roadnot.txt@499+
+flash	: daffodils.txt@736+
+flash upon	: daffodils.txt@736+
+floats	: cagedbird.txt@95+daffodils.txt@79+
+floats downstream	: cagedbird.txt@95+
+floats on	: daffodils.txt@79+
+for	: cagedbird.txt@925+cagedbird.txt@433+cagedbird.txt@496+cagedbird.txt@988+roadnot.txt@350+roadnot.txt@499+
+for another	: roadnot.txt@499+
+for still	: cagedbird.txt@925+cagedbird.txt@433+
+for that	: roadnot.txt@350+
+for the	: cagedbird.txt@496+cagedbird.txt@988+
+free	: cagedbird.txt@533+cagedbird.txt@51+
+free bird	: cagedbird.txt@51+cagedbird.txt@533+
+freedom	: cagedbird.txt@515+cagedbird.txt@1007+
+gay	: daffodils.txt@535+
+gazed	: daffodils.txt@590+daffodils.txt@590+
+gazed 	: daffodils.txt@590+daffodils.txt@590+
+glance	: daffodils.txt@385+
+glee	: daffodils.txt@497+
+golden	: daffodils.txt@153+
+golden daffodils	: daffodils.txt@153+
+grassy	: roadnot.txt@310+
+grassy and	: roadnot.txt@310+
+grave	: cagedbird.txt@702+
+grave of	: cagedbird.txt@702+
+had	: daffodils.txt@633+roadnot.txt@461+
+had brought	: daffodils.txt@633+
+had trodden	: roadnot.txt@461+
+has	: roadnot.txt@756+
+has made	: roadnot.txt@756+
+having	: roadnot.txt@272+
+having perhaps	: roadnot.txt@272+
+he	: cagedbird.txt@833+cagedbird.txt@338+cagedbird.txt@671+
+he names	: cagedbird.txt@671+
+he opens	: cagedbird.txt@338+cagedbird.txt@833+
+heads	: daffodils.txt@417+
+heads in	: daffodils.txt@417+
+heard	: cagedbird.txt@946+cagedbird.txt@454+
+heart	: daffodils.txt@800+
+heart with	: daffodils.txt@800+
+hence	: roadnot.txt@652+
+high	: daffodils.txt@79+
+high o	: daffodils.txt@79+
+hill	: cagedbird.txt@476+cagedbird.txt@968+
+hills	: daffodils.txt@79+
+his	: cagedbird.txt@833+cagedbird.txt@277+cagedbird.txt@294+cagedbird.txt@233+cagedbird.txt@320+cagedbird.txt@338+cagedbird.txt@946+cagedbird.txt@789+cagedbird.txt@789+cagedbird.txt@749+cagedbird.txt@671+cagedbird.txt@139+cagedbird.txt@454+
+his bars	: cagedbird.txt@277+
+his feet	: cagedbird.txt@789+cagedbird.txt@320+
+his narrow	: cagedbird.txt@233+
+his own	: cagedbird.txt@671+
+his shadow	: cagedbird.txt@749+
+his throat	: cagedbird.txt@338+cagedbird.txt@833+
+his tune	: cagedbird.txt@946+cagedbird.txt@454+
+his wings	: cagedbird.txt@139+cagedbird.txt@789+cagedbird.txt@294+
+host	: daffodils.txt@153+
+host 	: daffodils.txt@153+
+how	: roadnot.txt@538+
+how way	: roadnot.txt@538+
+if	: roadnot.txt@576+
+if I	: roadnot.txt@576+
+in	: cagedbird.txt@158+daffodils.txt@706+daffodils.txt@417+daffodils.txt@497+daffodils.txt@322+daffodils.txt@218+roadnot.txt@195+roadnot.txt@48+roadnot.txt@684+
+in a	: roadnot.txt@684+roadnot.txt@48+
+in glee	: daffodils.txt@497+
+in never	: daffodils.txt@322+
+in pensive	: daffodils.txt@706+
+in sprightly	: daffodils.txt@417+
+in the	: cagedbird.txt@158+daffodils.txt@218+roadnot.txt@195+
+inward	: daffodils.txt@736+
+inward eye	: daffodils.txt@736+
+is	: cagedbird.txt@454+cagedbird.txt@946+daffodils.txt@768+
+is heard	: cagedbird.txt@946+cagedbird.txt@454+
+is the	: daffodils.txt@768+
+it	: roadnot.txt@195+roadnot.txt@310+
+it bent	: roadnot.txt@195+
+it was	: roadnot.txt@310+
+jocund	: daffodils.txt@564+
+jocund company	: daffodils.txt@564+
+just	: roadnot.txt@233+
+just as	: roadnot.txt@233+
+kept	: roadnot.txt@499+
+kept the	: roadnot.txt@499+
+knowing	: roadnot.txt@538+
+knowing how	: roadnot.txt@538+
+lake	: daffodils.txt@182+
+lake 	: daffodils.txt@182+
+lawn	: cagedbird.txt@623+
+lay	: roadnot.txt@426+
+leads	: roadnot.txt@538+
+leads on	: roadnot.txt@538+
+leaps	: cagedbird.txt@51+
+leaves	: daffodils.txt@497+roadnot.txt@461+
+leaves in	: daffodils.txt@497+
+leaves no	: roadnot.txt@461+
+less	: roadnot.txt@722+
+less traveled	: roadnot.txt@722+
+lie	: daffodils.txt@674+
+line	: daffodils.txt@322+
+little	: daffodils.txt@590+
+little thought	: daffodils.txt@590+
+lonely	: daffodils.txt@50+
+lonely as	: daffodils.txt@50+
+long	: roadnot.txt@121+
+long I	: roadnot.txt@121+
+longed	: cagedbird.txt@433+cagedbird.txt@925+
+longed for	: cagedbird.txt@925+cagedbird.txt@433+
+looked	: roadnot.txt@156+
+looked down	: roadnot.txt@156+
+made	: roadnot.txt@756+
+made all	: roadnot.txt@756+
+margin	: daffodils.txt@358+
+margin of	: daffodils.txt@358+
+me	: daffodils.txt@633+
+me had	: daffodils.txt@633+
+milky	: daffodils.txt@292+
+milky way	: daffodils.txt@292+
+mood	: daffodils.txt@706+
+morning	: roadnot.txt@426+
+morning equally	: roadnot.txt@426+
+my	: daffodils.txt@674+daffodils.txt@800+
+my couch	: daffodils.txt@674+
+my heart	: daffodils.txt@800+
+names	: cagedbird.txt@671+
+names the	: cagedbird.txt@671+
+narrow	: cagedbird.txt@233+
+narrow cage	: cagedbird.txt@233+
+never	: daffodils.txt@322+
+never ending	: daffodils.txt@322+
+nightmare	: cagedbird.txt@749+
+nightmare scream	: cagedbird.txt@749+
+no	: roadnot.txt@461+
+no step	: roadnot.txt@461+
+not	: daffodils.txt@535+roadnot.txt@86+
+not be	: daffodils.txt@535+
+not travel	: roadnot.txt@86+
+o	: daffodils.txt@79+
+o er	: daffodils.txt@79+
+of	: cagedbird.txt@411+cagedbird.txt@533+cagedbird.txt@1007+cagedbird.txt@702+cagedbird.txt@71+cagedbird.txt@907+cagedbird.txt@277+cagedbird.txt@515+daffodils.txt@153+daffodils.txt@358+daffodils.txt@768+
+of a	: daffodils.txt@358+
+of another	: cagedbird.txt@533+
+of dreams	: cagedbird.txt@702+
+of freedom	: cagedbird.txt@1007+cagedbird.txt@515+
+of golden	: daffodils.txt@153+
+of rage	: cagedbird.txt@277+
+of solitude	: daffodils.txt@768+
+of the	: cagedbird.txt@411+cagedbird.txt@71+
+of things	: cagedbird.txt@907+
+oft	: daffodils.txt@674+
+oft 	: daffodils.txt@674+
+on	: cagedbird.txt@623+cagedbird.txt@71+cagedbird.txt@476+cagedbird.txt@749+cagedbird.txt@702+cagedbird.txt@968+daffodils.txt@79+daffodils.txt@292+daffodils.txt@674+roadnot.txt@538+
+on a	: cagedbird.txt@623+cagedbird.txt@749+
+on high	: daffodils.txt@79+
+on my	: daffodils.txt@674+
+on the	: cagedbird.txt@702+cagedbird.txt@71+cagedbird.txt@968+cagedbird.txt@476+daffodils.txt@292+
+on to	: roadnot.txt@538+
+once	: daffodils.txt@121+
+once I	: daffodils.txt@121+
+one	: roadnot.txt@722+roadnot.txt@156+roadnot.txt@121+
+one as	: roadnot.txt@156+
+one less	: roadnot.txt@722+
+one traveler	: roadnot.txt@121+
+opens	: cagedbird.txt@338+cagedbird.txt@833+
+opens his	: cagedbird.txt@833+cagedbird.txt@338+
+or	: daffodils.txt@706+
+or in	: daffodils.txt@706+
+orange	: cagedbird.txt@158+
+orange sun	: cagedbird.txt@158+
+other	: roadnot.txt@233+
+other 	: roadnot.txt@233+
+own	: cagedbird.txt@671+
+passing	: roadnot.txt@350+
+passing there	: roadnot.txt@350+
+pensive	: daffodils.txt@706+
+pensive mood	: daffodils.txt@706+
+perhaps	: roadnot.txt@272+
+perhaps the	: roadnot.txt@272+
+pleasure	: daffodils.txt@800+
+pleasure fills	: daffodils.txt@800+
+poet	: daffodils.txt@535+
+poet could	: daffodils.txt@535+
+rage	: cagedbird.txt@277+
+rays	: cagedbird.txt@158+
+really	: roadnot.txt@388+
+really about	: roadnot.txt@388+
+roads	: roadnot.txt@684+roadnot.txt@48+
+roads diverged	: roadnot.txt@684+roadnot.txt@48+
+same	: roadnot.txt@388+
+saw	: daffodils.txt@121+daffodils.txt@385+
+saw I	: daffodils.txt@385+
+saw a	: daffodils.txt@121+
+scream	: cagedbird.txt@749+
+see	: cagedbird.txt@254+
+see through	: cagedbird.txt@254+
+seldom	: cagedbird.txt@254+
+seldom see	: cagedbird.txt@254+
+shadow	: cagedbird.txt@749+
+shadow shouts	: cagedbird.txt@749+
+shall	: roadnot.txt@615+
+shall be	: roadnot.txt@615+
+shine	: daffodils.txt@257+
+should	: roadnot.txt@576+
+should ever	: roadnot.txt@576+
+shouts	: cagedbird.txt@749+
+shouts on	: cagedbird.txt@749+
+show	: daffodils.txt@633+
+show to	: daffodils.txt@633+
+sigh	: roadnot.txt@615+
+sighing	: cagedbird.txt@572+
+sighing trees	: cagedbird.txt@572+
+sing	: cagedbird.txt@833+cagedbird.txt@338+
+sings	: cagedbird.txt@515+cagedbird.txt@1007+cagedbird.txt@865+cagedbird.txt@371+
+sings of	: cagedbird.txt@1007+cagedbird.txt@515+
+sky	: cagedbird.txt@181+cagedbird.txt@671+
+sky his	: cagedbird.txt@671+
+so	: cagedbird.txt@833+cagedbird.txt@338+
+so he	: cagedbird.txt@833+cagedbird.txt@338+
+soft	: cagedbird.txt@572+
+soft through	: cagedbird.txt@572+
+solitude	: daffodils.txt@768+
+sorry	: roadnot.txt@86+
+sorry I	: roadnot.txt@86+
+sparkling	: daffodils.txt@497+
+sparkling leaves	: daffodils.txt@497+
+sprightly	: daffodils.txt@417+
+sprightly dance	: daffodils.txt@417+
+stalks	: cagedbird.txt@210+
+stands	: cagedbird.txt@702+
+stands on	: cagedbird.txt@702+
+stars	: daffodils.txt@257+
+stars that	: daffodils.txt@257+
+step	: roadnot.txt@461+
+step had	: roadnot.txt@461+
+still	: cagedbird.txt@925+cagedbird.txt@433+
+stood	: roadnot.txt@121+
+stretched	: daffodils.txt@322+
+stretched in	: daffodils.txt@322+
+such	: daffodils.txt@564+
+such a	: daffodils.txt@564+
+sun	: cagedbird.txt@158+
+sun rays	: cagedbird.txt@158+
+telling	: roadnot.txt@615+
+telling this	: roadnot.txt@615+
+that	: cagedbird.txt@210+daffodils.txt@736+daffodils.txt@257+roadnot.txt@426+roadnot.txt@756+roadnot.txt@350+
+that has	: roadnot.txt@756+
+that inward	: daffodils.txt@736+
+that morning	: roadnot.txt@426+
+that shine	: daffodils.txt@257+
+that stalks	: cagedbird.txt@210+
+that the	: roadnot.txt@350+
+the	: cagedbird.txt@158+cagedbird.txt@623+cagedbird.txt@671+cagedbird.txt@572+cagedbird.txt@117+cagedbird.txt@702+cagedbird.txt@572+cagedbird.txt@0+cagedbird.txt@496+cagedbird.txt@476+cagedbird.txt@71+cagedbird.txt@181+cagedbird.txt@71+cagedbird.txt@411+cagedbird.txt@968+cagedbird.txt@988+daffodils.txt@257+daffodils.txt@358+daffodils.txt@497+daffodils.txt@292+daffodils.txt@633+daffodils.txt@218+daffodils.txt@182+daffodils.txt@768+daffodils.txt@182+daffodils.txt@839+roadnot.txt@499+roadnot.txt@388+roadnot.txt@722+roadnot.txt@756+roadnot.txt@195+roadnot.txt@272+roadnot.txt@233+roadnot.txt@350+
+the Caged	: cagedbird.txt@0+
+the back	: cagedbird.txt@71+
+the better	: roadnot.txt@272+
+the bliss	: daffodils.txt@768+
+the breeze	: daffodils.txt@218+
+the caged	: cagedbird.txt@988+cagedbird.txt@496+
+the current	: cagedbird.txt@117+
+the daffodils	: daffodils.txt@839+
+the difference	: roadnot.txt@756+
+the distant	: cagedbird.txt@968+cagedbird.txt@476+
+the fat	: cagedbird.txt@623+
+the first	: roadnot.txt@499+
+the grave	: cagedbird.txt@702+
+the lake	: daffodils.txt@182+
+the margin	: daffodils.txt@358+
+the milky	: daffodils.txt@292+
+the one	: roadnot.txt@722+
+the orange	: cagedbird.txt@158+
+the other	: roadnot.txt@233+
+the passing	: roadnot.txt@350+
+the same	: roadnot.txt@388+
+the show	: daffodils.txt@633+
+the sighing	: cagedbird.txt@572+
+the sky	: cagedbird.txt@671+cagedbird.txt@181+
+the sparkling	: daffodils.txt@497+
+the stars	: daffodils.txt@257+
+the things	: cagedbird.txt@411+
+the trade	: cagedbird.txt@572+
+the trees	: daffodils.txt@182+
+the undergrowth	: roadnot.txt@195+
+the wind	: cagedbird.txt@71+
+their	: daffodils.txt@417+
+their heads	: daffodils.txt@417+
+them	: daffodils.txt@458+roadnot.txt@388+
+them danced	: daffodils.txt@458+
+them really	: roadnot.txt@388+
+then	: daffodils.txt@800+
+then my	: daffodils.txt@800+
+there	: roadnot.txt@350+
+they	: daffodils.txt@458+
+things	: cagedbird.txt@411+cagedbird.txt@907+
+things unknown	: cagedbird.txt@411+cagedbird.txt@907+
+thinks	: cagedbird.txt@533+
+thinks of	: cagedbird.txt@533+
+this	: roadnot.txt@615+
+this with	: roadnot.txt@615+
+thought	: daffodils.txt@590+
+thousand	: daffodils.txt@385+
+thousand saw	: daffodils.txt@385+
+throat	: cagedbird.txt@338+cagedbird.txt@833+
+throat to	: cagedbird.txt@338+cagedbird.txt@833+
+through	: cagedbird.txt@572+cagedbird.txt@254+
+through the	: cagedbird.txt@572+
+tied	: cagedbird.txt@320+cagedbird.txt@789+
+till	: cagedbird.txt@117+
+till the	: cagedbird.txt@117+
+to	: cagedbird.txt@338+cagedbird.txt@181+cagedbird.txt@833+daffodils.txt@633+roadnot.txt@538+
+to claim	: cagedbird.txt@181+
+to me	: daffodils.txt@633+
+to sing	: cagedbird.txt@833+cagedbird.txt@338+
+to way	: roadnot.txt@538+
+took	: roadnot.txt@722+roadnot.txt@233+
+took the	: roadnot.txt@233+roadnot.txt@722+
+trade	: cagedbird.txt@572+
+trade winds	: cagedbird.txt@572+
+travel	: roadnot.txt@86+
+travel both	: roadnot.txt@86+
+traveled	: roadnot.txt@722+
+traveled by	: roadnot.txt@722+
+traveler	: roadnot.txt@121+
+traveler 	: roadnot.txt@121+
+trees	: cagedbird.txt@572+daffodils.txt@182+
+trill	: cagedbird.txt@392+cagedbird.txt@886+
+trodden	: roadnot.txt@461+
+trodden black	: roadnot.txt@461+
+tune	: cagedbird.txt@946+cagedbird.txt@454+
+tune is	: cagedbird.txt@946+cagedbird.txt@454+
+twinkle	: daffodils.txt@292+
+twinkle on	: daffodils.txt@292+
+undergrowth	: roadnot.txt@195+
+unknown	: cagedbird.txt@411+cagedbird.txt@907+
+upon	: daffodils.txt@736+
+upon that	: daffodils.txt@736+
+vacant	: daffodils.txt@706+
+vacant or	: daffodils.txt@706+
+vales	: daffodils.txt@79+
+vales and	: daffodils.txt@79+
+waiting	: cagedbird.txt@623+
+waiting on	: cagedbird.txt@623+
+wandered	: daffodils.txt@50+
+wandered lonely	: daffodils.txt@50+
+wanted	: roadnot.txt@310+
+wanted wear	: roadnot.txt@310+
+was	: roadnot.txt@310+
+was grassy	: roadnot.txt@310+
+waves	: daffodils.txt@458+
+waves beside	: daffodils.txt@458+
+way	: daffodils.txt@292+roadnot.txt@538+roadnot.txt@538+
+way leads	: roadnot.txt@538+
+wealth	: daffodils.txt@633+
+wealth the	: daffodils.txt@633+
+wear	: roadnot.txt@310+
+when	: daffodils.txt@674+
+when on	: daffodils.txt@674+
+where	: roadnot.txt@195+
+where it	: roadnot.txt@195+
+wind	: cagedbird.txt@71+
+winds	: cagedbird.txt@572+
+winds soft	: cagedbird.txt@572+
+wings	: cagedbird.txt@139+cagedbird.txt@294+cagedbird.txt@789+
+wings are	: cagedbird.txt@789+cagedbird.txt@294+
+with	: cagedbird.txt@886+cagedbird.txt@392+daffodils.txt@839+daffodils.txt@800+roadnot.txt@615+
+with a	: cagedbird.txt@886+roadnot.txt@615+
+with fearful	: cagedbird.txt@392+
+with pleasure	: daffodils.txt@800+
+with the	: daffodils.txt@839+
+wood	: roadnot.txt@48+roadnot.txt@684+
+wood 	: roadnot.txt@684+
+worms	: cagedbird.txt@623+
+worms waiting	: cagedbird.txt@623+
+worn	: roadnot.txt@388+
+worn them	: roadnot.txt@388+
+yellow	: roadnot.txt@48+
+yellow wood	: roadnot.txt@48+
